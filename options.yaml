@@ -1,0 +1,220 @@
+Style:
+  - Abstract
+  - Classic
+  - Dada movement
+  - Modern
+  - Psychedelic
+  - Orphism
+  - Minimalism
+  - Naive art
+  - Retro
+  - Surreal
+Artist:
+  - Giotto di Bondone
+  - Sandro Botticelli
+  - Leonardo da Vinci
+  - Michelangelo Buonarroti
+  - Raphael Sanzio
+  - Caravaggio
+  - Johannes Vermeer
+  - Rembrandt van Rijn
+  - Diego Velázquez
+  - Francisco Goya
+  - William Turner
+  - Claude Monet
+  - Vincent van Gogh
+  - Paul Cézanne
+  - Pablo Picasso
+  - Henri Matisse
+  - Wassily Kandinsky
+  - Kazimir Malevich
+  - Salvador Dalí
+  - Frida Kahlo
+  - Jackson Pollock
+  - Mark Rothko
+  - Joan Miró
+  - Willem de Kooning
+  - Andy Warhol
+  - Jean-Michel Basquiat
+  - Yayoi Kusama
+  - Lucian Freud
+  - Gerhard Richter
+  - Peter Paul Rubens
+  - Jan van Eyck
+  - Diego Rivera
+  - Georges Braque
+  - Piet Mondrian
+  - Joan Mitchell
+  - Marc Chagall
+  - Grant Wood
+  - Gustav Klimt
+  - Egon Schiele
+  - Edward Hopper
+  - Amedeo Modigliani
+  - Tamara de Lempicka
+  - Francis Bacon
+  - Max Ernst
+  - Georgia O'Keeffe
+  - Edvard Munch
+  - Katsushika Hokusai
+  - Winslow Homer
+  - William Blake
+  - Paul Gauguin
+  - Chaim Soutine
+  - Edward Weston
+  - Gustave Courbet
+  - James McNeill Whistler
+  - Henri de Toulouse-Lautrec
+  - Pierre-Auguste Renoir
+  - Mary Cassatt
+  - Artemisia Gentileschi
+  - Théodore Géricault
+  - Kazuo Shiraga
+  - Franz Kline
+  - Alberto Giacometti
+  - Robert Rauschenberg
+  - Francis Picabia
+  - René Magritte
+  - Yves Klein
+  - Helen Frankenthaler
+  - El Greco
+  - Fernand Léger
+  - Salvador Dalí
+  - George Inness
+  - Camille Pissarro
+  - Paul Klee
+  - Joaquín Sorolla
+  - Félix Vallotton
+  - Childe Hassam
+  - Auguste Rodin
+  - Willem Kalf
+  - Thomas Eakins
+  - Kees van Dongen
+  - Frans Hals
+  - Jean-François Millet
+  - Juan Gris
+  - Joseph Mallord William Turner
+  - Pieter Bruegel the Elder
+  - Peter Doig
+  - Amrita Sher-Gil
+  - Bhupen Khakhar
+  - René Magritte
+  - Tintoretto
+  - Edward Burne-Jones
+  - Roy Lichtenstein
+  - Benjamin West
+  - Zao Wou-Ki
+  - Jacob Lawrence
+  - José Clemente Orozco
+Option:
+  - Color Grading
+  - Depth of Field
+  - Cinematic
+  - Backlight
+  - Natural Lighting
+  - HDR
+  - Incandescent
+  - Moody Lighting
+  - Glowing
+  - Ektachrome
+  - Studio Lighting
+Detail level:
+  - minimalistic details
+  - normal details
+  - high details
+  - very high details
+  - extreme level of details
+Output style:
+  - 3D Character
+  - Adorable
+  - Anime Portrait
+  - ArchViz
+  - Beautiful Portrait
+  - Building
+  - Caricature
+  - CGI Character
+  - Comic Art
+  - Control Room
+  - Cute Creature
+  - Cute Kawaii
+  - CyberPunk
+  - Dark
+  - Dataviz
+  - Digital Art
+  - Digital Portrait
+  - Dramatic
+  - Drawing
+  - Fashion
+  - Figurine
+  - Horror
+  - Illustration
+  - Isometric
+  - Logo
+  - Low Poly
+  - Needle Felted
+  - Negative prompt
+  - Nightmare
+  - Oil Painting
+  - Origami
+  - Pencil Sketch
+  - Photograph
+  - Pixar
+  - Postapocalyptic
+  - Poster Illustration
+  - Psycho
+  - Punky
+  - Realistic Anime Face
+  - Realistic Shaded
+  - Render 3D
+  - Robotize
+  - Schematic
+  - Sticker
+  - Stuffed Plush
+  - Tokyo Background
+  - Toon Monster
+  - Typography
+  - Warm Scene
+Photo adjust: 
+  - Canon EOS 5D Mark IV, Auto focus, 1/125 sec, Standard color
+  - Nikon D850, Manual focus, 1/250 sec, Vivid color
+  - Sony A7 III, Continuous focus, 1/500 sec, Landscape color
+  - Fujifilm X-T3, Auto focus, 1/1000 sec, Classic Chrome color
+  - Olympus OM-D E-M1 Mark II, Auto focus, 1/2000 sec, Natural color
+  - Panasonic Lumix GH5, Auto focus, 1/8000 sec, Cinelike D color
+  - Leica Q2, Auto focus, 1/500 sec, Monochrome color
+  - Pentax K-1 Mark II, Manual focus, 1/4000 sec, Portrait color
+  - Hasselblad X1D II 50C, Auto focus, 1/60 sec, Fade color
+  - Phase One XF IQ4 150MP, Auto focus, 1/30 sec, High Contrast color
+  - Canon EOS R5, Auto focus, 1/200 sec, Sepia color
+  - Nikon Z7 II, Auto focus, 1/160 sec, Cross Process color
+  - Sony A1, Continuous focus, 1/8000 sec, Vintage color
+  - Fujifilm GFX 100S, Manual focus, 1/1000 sec, Deep color
+  - Olympus PEN-F, Auto focus, 1/4000 sec, Dramatic Tone color
+  - Panasonic Lumix S1R, Auto focus, 1/8000 sec, L. Monochrome color
+  - Leica M10-R, Manual focus, 1/500 sec, Bleach Bypass color
+  - Pentax K-3 Mark III, Auto focus, 1/8000 sec, Vibrant color
+  - Hasselblad 907X 50C, Auto focus, 1/125 sec, Matte color
+  - Phase One XF IQ4 150MP Achromatic, Auto focus, 1/60 sec, Black and White color
+  - Canon EOS RP, Auto focus, 1/250 sec, Clear color
+  - Nikon Z6 II, Auto focus, 1/320 sec, Neutral color
+  - Sony A7C, Continuous focus, 1/1000 sec, Warm color
+  - Fujifilm X-S10, Auto focus, 1/2000 sec, Cool color
+  - Olympus OM-D E-M5 Mark III, Auto focus, 1/2000 sec, Pastel color
+  - Panasonic Lumix GH5 II, Auto focus, 1/500 sec, Light color
+  - Leica SL2-S, Auto focus, 1/1000 sec, HDR color
+  - Pentax K-70, Auto focus, 1/4000 sec, Cross Hatch color
+  - Hasselblad X1D II 50C 4116 Edition, Auto focus, 1/60 sec, Film Grain color
+  - Phase One IQ4 150MP Infinity, Auto focus, 1/30 sec, Lomography color
+  - Canon PowerShot G7 X Mark III, Auto focus, 1/2000 sec, Soft color
+  - Nikon Coolpix P1000, Auto focus, 1/125 sec, Bright color
+  - Sony RX100 VII, Continuous focus, 1/2000 sec, High Key color
+  - Fujifilm X100V, Manual focus, 1/
+Camera adjusts: 
+  - Macro photography, Camera brand & model, Canon EOS 5D Mark IV,  Focus 100mm, Exposition time 1/125,   Colour adjustment +0.3,   White balance Auto, Shutter speed 1/250, ISO, 100, Exposure compensation +1, Aperture f/5.6, F-stop 32
+  - Landscape photography, Camera brand & model Nikon D850, Focus 18-200mm, Exposition time 1/125, Colour adjustment +0.5, White balance Auto, Shutter speed 1/250, ISO  100, Exposure compensation  0, Aperture  f/8 F-stop  32
+  - Portraits, Camera brand & model  Sony A7 III, Focus  85mm, Exposition time  1/250, Colour adjustment  +1, White balance  Auto, Shutter speed  1/200, ISO  100, Exposure compensation  0, Aperture  f/2.8, F-stop  50
+  - Night photography, Camera brand & model  Canon EOS 5D Mark IV, Focus  24-70mm, Exposition time  30s, Colour adjustment  +1, White balance  Auto, Shutter speed  1/60, ISO  100, Exposure compensation  +2, Aperture  f/4, F-stop  16
+  - Sports and action photography, Camera brand & model  Nikon D500, Focus  50mm, Exposition time  1/1000, Colour adjustment  +0.5, White balance  Auto, Shutter speed  1/1000, ISO  200, Exposure compensation  0, Aperture  f/2.8, F-stop  50
+  - Wedding photography, Camera brand & model  Canon EOS 5D Mark IV, Focus  24-105mm, Exposition time  1/100, Colour adjustment  +0.3, White balance  Auto,  Shutter speed  1/250, ISO  100, Exposure compensation  +1, Aperture  f/5.6, F-stop  32
+  - Travel and landscape photography, Camera brand & model  Sony A7 III, Focus  16-35mm, Exposition time  1/125, Colour adjustment  +0.5, White balance  Auto,Shutter speed  1/250, ISO  100, Exposure compensation  0, Aperture  f/8, F-stop  32
+  - Macro and close-up photography, Camera brand & model  Canon EOS 5D Mark IV, Focus  100mm, Exposition time  1/125, Colour adjustment  +0.3, White balance  Auto, Shutter speed  1/250, ISO  100, Exposure compensation  +1,  Aperture  f/5.6, F-stop  32
