@@ -1,112 +1,195 @@
 Style:
-  - Abstract
-  - Classic
-  - Dada movement
-  - Modern
+  - cave art
+  - Egyptian Art
+  - Primitivism
+  - Aboriginal art
+  - Indigenous Art
+  - Baroque
+  - Byzantine
+  - Goth art
+  - Roman
+  - Romanesque
+  - Greeck
+  - Grecoroman
+  - Renascentist
+  - Classicicism
+  - Rococo
+  - Manneirism
+  - Romanticism
+  - Neo classicism
+  - impressionism
+  - post impressism
+  - expressionism
+  - Pointillism
+  - abstract expressionism
+  - neo expressionism
+  - neo plasticism
+  - art brut
+  - Cubism
+  - fauvism
+  - Art nouveal
+  - Art Deco
+  - futurism
+  - vorticism
+  - Pattern
+  - Cordel, String art
+  - suprematism
+  - contrutivism
+  - concretism
+  - bauhaus
+  - Nabis
+  - Abstract figurative
+  - Abstract geometric
   - Psychedelic
+  - Enteogenic
+  - visionary art
   - Orphism
+  - simbolism
   - Minimalism
+  - maximalism
   - Naive art
-  - Retro
-  - Surreal
+  - decorative art
+  - Surrealism
+  - Dadaism
+  - Conceptual art
+  - Pop Art
+  - op art
+  - Hiperealist art
+  - eletronic art
+  - digital art
+  - kineptic art
+  - mecanical art
+  - futurism
+  - cyberpunk 
+  - steanpunk
+  - tecnopunk
+  - doompunk 
+  - dieselpunk
+  - mechapunk
+  - Land Art
+  - Urban Art
+  - biomecanic art
+  - Realism
+  - Naturalism
+  - multi cultural art
+  - region art
+  - craftsmanship
+  - Contemporary Art
+  - instalation art
+  - sound art
+  - body art
+  - graffiti art
+  - hyperrealism
+  - photorealism
+  - folk art
+  - outsider art
+  - pixel art
+  - Algorithmic Art
+  - Generative Art
+  - Interactive Art
+  - Virtual Reality Art
+  - Augmented Reality Art
+  - Glitch Art
+  - Bio Art
+  - Eco Art
+  - Net Art
+  - Queer Art
+  - Feminist Art
+  - Chicano Art
+  - African American Art
+  - Asian American Art
+  - Postcolonial Art
+  - Transnational Art
+  - Relational Aesthetics
+  - Earthworks
+  - Fetish
+  - Fantastic Realism
+  - Bad Painting
+  - Interactive Art
+
 Artist:
-  - Giotto di Bondone
-  - Sandro Botticelli
-  - Leonardo da Vinci
-  - Michelangelo Buonarroti
-  - Raphael Sanzio
-  - Caravaggio
-  - Johannes Vermeer
-  - Rembrandt van Rijn
-  - Diego Velázquez
-  - Francisco Goya
-  - William Turner
-  - Claude Monet
-  - Vincent van Gogh
-  - Paul Cézanne
-  - Pablo Picasso
-  - Henri Matisse
-  - Wassily Kandinsky
-  - Kazimir Malevich
-  - Salvador Dalí
-  - Frida Kahlo
-  - Jackson Pollock
-  - Mark Rothko
-  - Joan Miró
-  - Willem de Kooning
   - Andy Warhol
-  - Jean-Michel Basquiat
-  - Yayoi Kusama
-  - Lucian Freud
-  - Gerhard Richter
-  - Peter Paul Rubens
-  - Jan van Eyck
-  - Diego Rivera
-  - Georges Braque
-  - Piet Mondrian
-  - Joan Mitchell
-  - Marc Chagall
-  - Grant Wood
-  - Gustav Klimt
-  - Egon Schiele
-  - Edward Hopper
-  - Amedeo Modigliani
-  - Tamara de Lempicka
-  - Francis Bacon
-  - Max Ernst
-  - Georgia O'Keeffe
-  - Edvard Munch
-  - Katsushika Hokusai
-  - Winslow Homer
-  - William Blake
-  - Paul Gauguin
-  - Chaim Soutine
-  - Edward Weston
-  - Gustave Courbet
-  - James McNeill Whistler
-  - Henri de Toulouse-Lautrec
-  - Pierre-Auguste Renoir
-  - Mary Cassatt
-  - Artemisia Gentileschi
-  - Théodore Géricault
-  - Kazuo Shiraga
-  - Franz Kline
-  - Alberto Giacometti
-  - Robert Rauschenberg
-  - Francis Picabia
-  - René Magritte
-  - Yves Klein
-  - Helen Frankenthaler
-  - El Greco
-  - Fernand Léger
-  - Salvador Dalí
-  - George Inness
-  - Camille Pissarro
-  - Paul Klee
-  - Joaquín Sorolla
-  - Félix Vallotton
-  - Childe Hassam
+  - Aleijadinho
+  - Abbott Fuller Graves
+  - Abbott Handerson Thayer
+  - Anne Truitt
   - Auguste Rodin
-  - Willem Kalf
-  - Thomas Eakins
-  - Kees van Dongen
-  - Frans Hals
-  - Jean-François Millet
-  - Juan Gris
-  - Joseph Mallord William Turner
-  - Pieter Bruegel the Elder
-  - Peter Doig
-  - Amrita Sher-Gil
-  - Bhupen Khakhar
+  - Afarin Sajedi
+  - Amedeo Modigliani
+  - Banksy
+  - Brian Jungen
+  - Balthus
+  - Caravaggio
+  - Donatelo
+  - Dan Colen
+  - Edward Hopper
+  - Edvard Munch
+  - Édouard Manet
+  - El Greco
+  - Francis Bacon
+  - Frida Kahlo
+  - Francisco Goya
+  - Fairy Kei
+  - Georgia O'Keeffe
+  - Georges Seurat
+  - Gustav Klimt
+  - Guarani
+  - Henri Matisse
+  - Hyeronimus Borsh
+  - Jackson Pollock
+  - J. Borges
+  - Jamie Hewlett
+  - Jean-Michel Basquiat
+  - Joan Miró
+  - Kayapo
+  - Kazuo Shiraga
+  - Kazimir Malevich
+  - Leonardo da Vinci
+  - Lee Krasner
+  - Jacques-Louis David
+  - Marc Chagall
+  - Max Ernst
+  - Mark Rothko
+  - Makuxi
+  - Marcel Duchamp
+  - Michelangelo
+  - Nam June Paik
+  - Pablo Picasso
+  - Patricia Piccinini
+  - Piet Mondrian
+  - Paul Cézanne
+  - Rembrandt
+  - Raphael
   - René Magritte
-  - Tintoretto
-  - Edward Burne-Jones
+  - Romero Brito
+  - Robert Rauschenberg
   - Roy Lichtenstein
-  - Benjamin West
-  - Zao Wou-Ki
-  - Jacob Lawrence
-  - José Clemente Orozco
+  - Ruben Valentin
+  - Salvador Dalí
+  - Sandro Botticelli
+  - Sir Laurence alma
+  - Sol Lewitt
+  - Tim Burton
+  - Tukano
+  - Ticuna
+  - Tamara de Lempicka
+  - Vincent van Gogh
+  - Wassily Kandinsky
+  - Willem de Kooning
+  - William Blake
+  - Willian Turner
+  - Xavante
+  - Yayoi Kusama
+  - Yanomami
+  - Yoruba
+
+
 Option:
+  - Blur
+  - flare
+  - posterize
+  - distort
+  - grain
   - Color Grading
   - Depth of Field
   - Cinematic
@@ -118,62 +201,57 @@ Option:
   - Glowing
   - Ektachrome
   - Studio Lighting
+  - baroque light
+
+
 Detail level:
   - minimalistic details
   - normal details
   - high details
   - very high details
   - extreme level of details
+  - HDR
+
+
 Output style:
-  - 3D Character
-  - Adorable
-  - Anime Portrait
-  - ArchViz
-  - Beautiful Portrait
-  - Building
-  - Caricature
-  - CGI Character
-  - Comic Art
-  - Control Room
-  - Cute Creature
-  - Cute Kawaii
-  - CyberPunk
-  - Dark
-  - Dataviz
-  - Digital Art
-  - Digital Portrait
-  - Dramatic
-  - Drawing
-  - Fashion
-  - Figurine
-  - Horror
-  - Illustration
-  - Isometric
-  - Logo
-  - Low Poly
-  - Needle Felted
-  - Negative prompt
-  - Nightmare
-  - Oil Painting
-  - Origami
-  - Pencil Sketch
-  - Photograph
-  - Pixar
-  - Postapocalyptic
-  - Poster Illustration
-  - Psycho
-  - Punky
-  - Realistic Anime Face
-  - Realistic Shaded
-  - Render 3D
-  - Robotize
-  - Schematic
-  - Sticker
-  - Stuffed Plush
-  - Tokyo Background
-  - Toon Monster
-  - Typography
-  - Warm Scene
+  - 8 bit
+  - 16 bit
+  - pen drawing
+  - charcoal drawing
+  - Pastel drawing
+  - oil painting
+  - Encaustic painting
+  - Collage
+  - Mosaic
+  - water colour painting
+  - acrilic painting
+  - woodcut style
+  - calligraphy
+  - graffiti
+  - textile 
+  - 3d render
+  - sculpture
+  - cartoon
+  - anime
+  - line art
+  - pixel art
+  - airbrush paint
+  - spray paint
+  - glass 
+  - sketch
+  - stamp
+  - Pointillism
+  - Etching
+  - Lithography
+  - Batik
+  - retro
+  - printmaking
+  - typography
+  - claysculpture
+  - chiaroscuro
+  - golden ratio
+  - geometric
+
 Photo adjust: 
   - Canon EOS 5D Mark IV, Auto focus, 1/125 sec, Standard color
   - Nikon D850, Manual focus, 1/250 sec, Vivid color
@@ -209,25 +287,8 @@ Photo adjust:
   - Nikon Coolpix P1000, Auto focus, 1/125 sec, Bright color
   - Sony RX100 VII, Continuous focus, 1/2000 sec, High Key color
   - Fujifilm X100V, Manual focus, 1/
+
 Camera adjusts: 
-  - Macro photography, Camera brand & model, Canon EOS 5D Mark IV,  Focus 100mm, Exposition time 1/125,   Colour adjustment +0.3,   White balance Auto, Shutter speed 1/250, ISO, 100, Exposure compensation +1, Aperture f/5.6, F-stop 32
-  - Landscape photography, Camera brand & model Nikon D850, Focus 18-200mm, Exposition time 1/125, Colour adjustment +0.5, White balance Auto, Shutter speed 1/250, ISO  100, Exposure compensation  0, Aperture  f/8 F-stop  32
-  - Portraits, Camera brand & model  Sony A7 III, Focus  85mm, Exposition time  1/250, Colour adjustment  +1, White balance  Auto, Shutter speed  1/200, ISO  100, Exposure compensation  0, Aperture  f/2.8, F-stop  50
-  - Night photography, Camera brand & model  Canon EOS 5D Mark IV, Focus  24-70mm, Exposition time  30s, Colour adjustment  +1, White balance  Auto, Shutter speed  1/60, ISO  100, Exposure compensation  +2, Aperture  f/4, F-stop  16
-  - Sports and action photography, Camera brand & model  Nikon D500, Focus  50mm, Exposition time  1/1000, Colour adjustment  +0.5, White balance  Auto, Shutter speed  1/1000, ISO  200, Exposure compensation  0, Aperture  f/2.8, F-stop  50
-  - Wedding photography, Camera brand & model  Canon EOS 5D Mark IV, Focus  24-105mm, Exposition time  1/100, Colour adjustment  +0.3, White balance  Auto,  Shutter speed  1/250, ISO  100, Exposure compensation  +1, Aperture  f/5.6, F-stop  32
-  - Travel and landscape photography, Camera brand & model  Sony A7 III, Focus  16-35mm, Exposition time  1/125, Colour adjustment  +0.5, White balance  Auto,Shutter speed  1/250, ISO  100, Exposure compensation  0, Aperture  f/8, F-stop  32
-  - Macro and close-up photography, Camera brand & model  Canon EOS 5D Mark IV, Focus  100mm, Exposition time  1/125, Colour adjustment  +0.3, White balance  Auto, Shutter speed  1/250, ISO  100, Exposure compensation  +1,  Aperture  f/5.6, F-stop  32
-  - Wildlife and nature photography, Camera brand & model  Nikon D850, Focus  200-500mm, Exposition time  1/250, Colour adjustment  +0.5, White balance  Auto, Shutter speed  1/250, ISO  100, Exposure compensation  0, Aperture  f/8, F-stop  32
-  - Product photography, Camera brand & model  Canon EOS 5D Mark IV, Focus  100mm, Exposition time  1/125, Colour adjustment  +0.3, White balance  Auto, Shutter speed  1/250, ISO  100, Exposure compensation  +1, Aperture  f/5.6, F-stop  32
-  - Astrophotography, Camera brand & model  Nikon D810, Focus  10mm, Exposition time  30s, Colour adjustment  +1, White balance  Manual, Shutter speed  1/250, ISO  100, Exposure compensation  0, Aperture  f/2.8, F-stop  16
-  - Nightclub and event photography, Camera brand & model  Canon EOS 5D Mark IV, Focus  70-200mm, Exposition time  1/100, Colour adjustment  +0.5, White balance  Auto, Shutter speed  1/250, ISO  100, Exposure compensation  0, Aperture  f/4, F-stop  50
-  - Family and portrait photography, Camera brand & model  Sony A7 III, Focus  50mm, Exposition time  1/125, Colour adjustment  +0.3, White balance  Auto, Shutter speed  1/250, ISO  100, Exposure compensation  0, Aperture  f/8, F-stop  32
-  - Sports and action photography, Camera brand & model  Nikon D500, Focus  50mm, Exposition time  1/1000, Colour adjustment  +0.5, White balance  Auto, Shutter speed  1/1000, ISO  200, Exposure compensation  0, Aperture  f/2.8, F-stop  50
-  - Fashion and beauty photography, Camera brand & model  Canon EOS 5D Mark IV, Focus  85mm, Exposition time  1/125, Colour adjustment  +0.3, White balance  Auto, Shutter speed  1/250, ISO  100, Exposure compensation  0, Aperture  f/5.6, F-stop  32
-  - Wedding and event photography, Camera brand & model  Sony A7 III, Focus  35mm, Exposition time  1/125, Colour adjustment  +0.5, White balance  Auto, Shutter speed  1/250, ISO  100, Exposure compensation  0, Aperture  f/8, F-stop  32
-  - Landscape and nature photography, Camera brand & model  Nikon D850, Focus  18-105mm, Exposition time  1/100, Colour adjustment  +1, White balance  Auto, Shutter speed  1/250, ISO  100, Exposure compensation  0, Aperture  f/5.6, F-stop  16
-  - Macro and close-up photography, Camera brand & model  Canon EOS 5D Mark IV, Focus  100mm, Exposition time  1/125, Colour adjustment  +0.3, White balance  Auto
   - Macro photography, Camera brand & model, Canon EOS 5D Mark IV,  Focus 100mm, Exposition time 1/125,   Colour adjustment +0.3,   White balance Auto, Shutter speed 1/250, ISO, 100, Exposure compensation +1, Aperture f/5.6, F-stop 32
   - Landscape photography, Camera brand & model Nikon D850, Focus 18-200mm, Exposition time 1/125, Colour adjustment +0.5, White balance Auto, Shutter speed 1/250, ISO  100, Exposure compensation  0, Aperture  f/8 F-stop  32
   - Street Photography, Camera Fujifilm X100V, Lens Fixed 23mm f/2, Focus Distance 6-10 feet, Aperture f/8, Shutter Speed 1/250, ISO 400, Lighting Direction Natural, Background Busy or Interesting.

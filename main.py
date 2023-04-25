@@ -12,7 +12,7 @@ options = get_options('options.yaml')
 #fields: Option, Detail level, Output style, Photo adjust, Camera adjusts 
 #Styles = options.Styles
 menuOptions = list(options.keys())
-print(menuOptions)
+print(options["Camera adjusts"])
 styleOptions = options["Style"]
 artistOptions = options["Artist"]
 optionOptions = options["Option"]
