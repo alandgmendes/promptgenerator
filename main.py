@@ -1,7 +1,6 @@
 import PySimpleGUI as sg
 import yaml
 import pyperclip
-import json
 
 def get_options(file_path):
     with open(file_path, 'r') as file:
@@ -9,8 +8,6 @@ def get_options(file_path):
     return options
 
 options = get_options('options.yaml')
-#fields: Option, Detail level, Output style, Photo adjust, Camera adjusts 
-#Styles = options.Styles
 menuOptions = list(options.keys())
 styleOptions = options["Style"]
 artistOptions = options["Artist"]
@@ -20,7 +17,6 @@ outputStyleOptions = options["Output style"]
 cameraAdjustsOptions = options["Camera adjusts"]
 
 layout = [[sg.Text('Choose the values of your prompt below:')]]
-# First the window layout in 2 columns
 
 outputStyle_block = [
     [sg.Text('Output style')],
@@ -63,7 +59,7 @@ detail_level_block = [
     [sg.HorizontalSeparator()]
 ]
 
-# ----- Full layout -----
+
 layout = [
     [[sg.Column(style_block),
      sg.VSeperator(),
@@ -88,7 +84,6 @@ layout.append([sg.Button('Copy to clipboard', key='copy', visible=False)])
     
 window = sg.Window('Image Prompt Generator', layout)
 
-#function to fetch my world in data and retrieve info about brazil violence
 while True:
     event, values = window.read()
 
@@ -97,79 +92,70 @@ while True:
         window['output'].update(output)
         window['copy'].update(visible=True)
     if event == 'copy':
-        pyperclip.copy(values['output'])    # display in the listbox
+        pyperclip.copy(values['output'])   
     if values['-INPUT-STYLE-']  is not None:
-        if values['-INPUT-STYLE-'] != '':                         # if a keystroke entered in search field
+        if values['-INPUT-STYLE-'] != '': 
             search = values['-INPUT-STYLE-']
-            new_values = [x for x in styleOptions if search in x]  # do the filtering
-            window['-LIST-STYLE-'].update(new_values)     # display in the listbox
+            new_values = [x for x in styleOptions if search in x] 
+            window['-LIST-STYLE-'].update(new_values)
         else:
-            # display original unfiltered list
             window['-LIST-STYLE-'].update(styleOptions)
-            # if a list item is chosen
         if event == '-LIST-STYLE-' and len(values['-LIST-STYLE-']):
-            selected_option = values['-LIST-STYLE-'][0]  # Get the first selected option
-            window['-INPUT-STYLE-'].update(selected_option)  # Update the input field with the selected option
+            selected_option = values['-LIST-STYLE-'][0]  
+            window['-INPUT-STYLE-'].update(selected_option)  
     if values['-INPUT-ARTIST-']  is not None:
-        if values['-INPUT-ARTIST-'] != '':                         # if a keystroke entered in search field
+        if values['-INPUT-ARTIST-'] != '':                       
             search = values['-INPUT-ARTIST-']
-            new_values = [x for x in artistOptions if search in x]  # do the filtering
-            window['-LIST-ARTIST-'].update(new_values)     # display in the listbox
+            new_values = [x for x in artistOptions if search in x]  
+            window['-LIST-ARTIST-'].update(new_values)     
         else:
-                # display original unfiltered list
             window['-LIST-ARTIST-'].update(artistOptions)
-                # if a list item is chosen
         if event == '-LIST-ARTIST-' and len(values['-LIST-ARTIST-']):
-            selected_option = values['-LIST-ARTIST-'][0]  # Get the first selected option
-            window['-INPUT-ARTIST-'].update(selected_option)  # Update the input field with the selected option
+            selected_option = values['-LIST-ARTIST-'][0]  
+            window['-INPUT-ARTIST-'].update(selected_option)  
         if values['-INPUT-OPTION-']  is not None:
-            if values['-INPUT-OPTION-'] != '':                         # if a keystroke entered in search field
+            if values['-INPUT-OPTION-'] != '':                        
                 search = values['-INPUT-OPTION-']
-                new_values = [x for x in optionOptions if search in x]  # do the filtering
-                window['-LIST-OPTION-'].update(new_values)     # display in the listbox
+                new_values = [x for x in optionOptions if search in x]  
+                window['-LIST-OPTION-'].update(new_values)     
             else:
-                    # display original unfiltered list
                 window['-LIST-OPTION-'].update(optionOptions)
-                    # if a list item is chosen
             if event == '-LIST-OPTION-' and len(values['-LIST-OPTION-']):
-                selected_option = values['-LIST-OPTION-'][0]  # Get the first selected option
-                window['-INPUT-OPTION-'].update(selected_option)  # Update the input field with the selected option
+                selected_option = values['-LIST-OPTION-'][0]  
+                window['-INPUT-OPTION-'].update(selected_option)  
         if values['-INPUT-DETAIL-LEVEL-']  is not None:
-            if values['-INPUT-DETAIL-LEVEL-'] != '':                         # if a keystroke entered in search field
+            if values['-INPUT-DETAIL-LEVEL-'] != '':                        
                 search = values['-INPUT-DETAIL-LEVEL-']
-                new_values = [x for x in detailLevelOptions if search in x]  # do the filtering
-                window['-LIST-DETAIL-LEVEL-'].update(new_values)     # display in the listbox
+                new_values = [x for x in detailLevelOptions if search in x]  
+                window['-LIST-DETAIL-LEVEL-'].update(new_values)     
             else:
-                    # display original unfiltered list
+                    
                 window['-LIST-DETAIL-LEVEL-'].update(detailLevelOptions)
-                    # if a list item is chosen
             if event == '-LIST-DETAIL-LEVEL-' and len(values['-LIST-DETAIL-LEVEL-']):
-                selected_option = values['-LIST-DETAIL-LEVEL-'][0]  # Get the first selected option
-                window['-INPUT-DETAIL-LEVEL-'].update(selected_option)  # Update the input field with the selected option 
+                selected_option = values['-LIST-DETAIL-LEVEL-'][0]  
+                window['-INPUT-DETAIL-LEVEL-'].update(selected_option)   
         if values['-INPUT-OUTPUT-STYLE-']  is not None:
-            if values['-INPUT-OUTPUT-STYLE-'] != '':                         # if a keystroke entered in search field
+            if values['-INPUT-OUTPUT-STYLE-'] != '':                        
                 search = values['-INPUT-OUTPUT-STYLE-']
-                new_values = [x for x in outputStyleOptions if search in x]  # do the filtering
-                window['-LIST-OUTPUT-STYLE-'].update(new_values)     # display in the listbox
+                new_values = [x for x in outputStyleOptions if search in x]  
+                window['-LIST-OUTPUT-STYLE-'].update(new_values)     
             else:
-                    # display original unfiltered list
+                    
                 window['-LIST-OUTPUT-STYLE-'].update(outputStyleOptions)
-                    # if a list item is chosen
             if event == '-LIST-OUTPUT-STYLE-' and len(values['-LIST-OUTPUT-STYLE-']):
-                selected_option = values['-LIST-OUTPUT-STYLE-'][0]  # Get the first selected option
-                window['-INPUT-OUTPUT-STYLE-'].update(selected_option)  # Update the input field with the selected option 
+                selected_option = values['-LIST-OUTPUT-STYLE-'][0]  
+                window['-INPUT-OUTPUT-STYLE-'].update(selected_option)   
         if values['-INPUT-CAMERA-ADJUST-']  is not None:
-            if values['-INPUT-CAMERA-ADJUST-'] != '':                         # if a keystroke entered in search field
+            if values['-INPUT-CAMERA-ADJUST-'] != '':                        
                 search = values['-INPUT-CAMERA-ADJUST-']
-                new_values = [x for x in cameraAdjustsOptions if search in x]  # do the filtering
-                window['-LIST-CAMERA-ADJUST-'].update(new_values)     # display in the listbox
+                new_values = [x for x in cameraAdjustsOptions if search in x]  
+                window['-LIST-CAMERA-ADJUST-'].update(new_values)     
             else:
-                    # display original unfiltered list
+                    
                 window['-LIST-CAMERA-ADJUST-'].update(cameraAdjustsOptions)
-                    # if a list item is chosen
             if event == '-LIST-CAMERA-ADJUST-' and len(values['-LIST-CAMERA-ADJUST-']):
-                selected_option = values['-LIST-CAMERA-ADJUST-'][0]  # Get the first selected option
-                window['-INPUT-CAMERA-ADJUST-'].update(selected_option)  # Update the input field with the selected option 
+                selected_option = values['-LIST-CAMERA-ADJUST-'][0]  
+                window['-INPUT-CAMERA-ADJUST-'].update(selected_option)   
     if event in (None, 'Exit'):
         break
 
